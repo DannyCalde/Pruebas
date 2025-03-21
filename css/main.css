@@ -1345,22 +1345,6 @@ body {
   }
 }
 
-#playButton {
-    z-index: 1000; /* Asegura que está encima de otros elementos */
-    background-color: #ff66b2;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: pointer;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
-}
-
-#playButton:hover {
-    background-color: #ff3399;
-}
-
 .message {
   position: absolute;
   top: 10%;
